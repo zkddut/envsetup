@@ -42,6 +42,9 @@ set shiftwidth=2
 ```
 <leader> -> ,
 
+Create a file from vim:
+:e filename
+
 open a new windown: <Ctrl>+<w> <v>/<s>
 move to a new windown: <Ctrl>+<w> <up>
 		increase the width of your window by pressing <Ctrl>+<w> and then ‘>’/'+'/'='
@@ -65,6 +68,10 @@ quickly find a file or a buffer (<leader>j or <ctrl>f):
 https://linuxize.com/post/getting-started-with-tmux/
 ```
 sudo apt install tmux
+Ctrl+b c Create a new window (with shell)
+Ctrl+b % Split current pane horizontally into two panes
+Ctrl+b " Split current pane vertically into two panes
+Ctrl+b x Close the current pane
 ```
 
 
