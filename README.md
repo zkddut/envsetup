@@ -65,6 +65,10 @@ quickly find a file or a buffer (<leader>j or <ctrl>f):
 https://linuxize.com/post/getting-started-with-tmux/
 ```
 sudo apt install tmux
+Ctrl+b c Create a new window (with shell)
+Ctrl+b % Split current pane horizontally into two panes
+Ctrl+b " Split current pane vertically into two panes
+Ctrl+b x Close the current pane
 ```
 
 
