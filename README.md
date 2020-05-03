@@ -68,6 +68,10 @@ quickly find a file or a buffer (<leader>j or <ctrl>f):
 https://linuxize.com/post/getting-started-with-tmux/
 ```
 sudo apt install tmux
+create .txmu.conf
+set -g mouse on
+Then use 'shift' + middle/left to paste and select
+
 Ctrl+b c Create a new window (with shell)
 Ctrl+b % Split current pane horizontally into two panes
 Ctrl+b " Split current pane vertically into two panes
@@ -94,4 +98,10 @@ function mkd() {
 
 # Add ssh key for github
 https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+https://github.com/settings/keys
+https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+
+# Common git command
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
 
